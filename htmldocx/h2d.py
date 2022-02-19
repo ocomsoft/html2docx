@@ -25,6 +25,9 @@ from docx.enum.text import WD_COLOR, WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
+# TODO remove - dev purposes
+from pprint import pprint
+
 from bs4 import BeautifulSoup
 
 # values in inches
@@ -178,6 +181,7 @@ class HtmlToDocx(HTMLParser):
         ]
         self.table_style = DEFAULT_TABLE_STYLE
         self.paragraph_style = DEFAULT_PARAGRAPH_STYLE
+        self.style_map = None
 
     def set_initial_attrs(self, document=None):
         self.tags = {
@@ -254,6 +258,10 @@ class HtmlToDocx(HTMLParser):
             self.run.font.highlight_color = WD_COLOR.GRAY_25 #TODO: map colors
 
     def apply_paragraph_style(self, style=None):
+        #-- try the style_map first
+        if self.style_map:
+            pprint(self)
+            input('apply_paragraph_style')
         try:
             if style:
                 self.paragraph.style = style
@@ -423,9 +431,13 @@ class HtmlToDocx(HTMLParser):
             return
 
         self.tags[tag] = current_attrs
-        if tag in ['p', 'pre']:
+        if tag in ['p', 'pre', 'title']:
             self.paragraph = self.doc.add_paragraph()
-            self.apply_paragraph_style()
+            # Apply the title style for a title tag?
+            applyStyle = None
+            if tag == 'title':
+                applyStyle = 'Title'
+            self.apply_paragraph_style(applyStyle)
 
         elif tag == 'li':
             self.handle_li()
@@ -528,7 +540,8 @@ class HtmlToDocx(HTMLParser):
         # https://html.spec.whatwg.org/#interactive-content
         link = self.tags.get('a')
         if link:
-            self.handle_link(link['href'], data)
+            if 'href' in link: 
+                self.handle_link(link['href'], data)
         else:
             # If there's a link, dont put the data directly in the run
             self.run = self.paragraph.add_run(data)
