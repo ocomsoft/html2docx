@@ -25,9 +25,6 @@ from docx.enum.text import WD_COLOR, WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
-# TODO remove - dev purposes
-from pprint import pprint
-
 from bs4 import BeautifulSoup
 
 # values in inches
@@ -258,8 +255,6 @@ class HtmlToDocx(HTMLParser):
             self.run.font.highlight_color = WD_COLOR.GRAY_25 #TODO: map colors
 
     def apply_paragraph_style(self, style=None):
-        print("--- apply_paragraph_style ---")
-        print(f"style: {style}")
         try:
             if style:
                 self.paragraph.style = style
