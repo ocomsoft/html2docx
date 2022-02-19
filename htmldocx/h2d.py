@@ -258,10 +258,8 @@ class HtmlToDocx(HTMLParser):
             self.run.font.highlight_color = WD_COLOR.GRAY_25 #TODO: map colors
 
     def apply_paragraph_style(self, style=None):
-        #-- try the style_map first
-        if self.style_map:
-            pprint(self)
-            input('apply_paragraph_style')
+        print("--- apply_paragraph_style ---")
+        print(f"style: {style}")
         try:
             if style:
                 self.paragraph.style = style
@@ -407,6 +405,22 @@ class HtmlToDocx(HTMLParser):
         # Add hyperlink to run
         self.paragraph._p.append(hyperlink)
 
+    def checkStyleMap( self, tag, current_attrs):
+        """
+        Return None or the name of a style to apply to the current tag
+        """
+        style = None
+
+        currentClass = current_attrs.get('class', None)
+
+        if self.style_map and currentClass:
+            tagDict = self.style_map.get(tag, None)
+            if tagDict is not None:
+                style = tagDict.get(currentClass, None)
+
+        return style
+
+
     def handle_starttag(self, tag, attrs):
         if self.skip:
             return
@@ -420,6 +434,9 @@ class HtmlToDocx(HTMLParser):
 
         current_attrs = dict(attrs)
 
+        #-- should we apply a paragraph style
+        applyStyle = self.checkStyleMap(tag, current_attrs) 
+
         if tag == 'span':
             self.tags['span'].append(current_attrs)
             return
@@ -431,11 +448,9 @@ class HtmlToDocx(HTMLParser):
             return
 
         self.tags[tag] = current_attrs
-        if tag in ['p', 'pre', 'title']:
-            self.paragraph = self.doc.add_paragraph()
-            # Apply the title style for a title tag?
-            applyStyle = None
-            if tag == 'title':
+        if tag in ['p', 'pre', 'title']: 
+            self.paragraph = self.doc.add_paragraph() 
+            if tag == 'title' and not applyStyle: 
                 applyStyle = 'Title'
             self.apply_paragraph_style(applyStyle)
 
@@ -468,10 +483,13 @@ class HtmlToDocx(HTMLParser):
 
         elif re.match('h[1-9]', tag):
             if isinstance(self.doc, docx.document.Document):
-                h_size = int(tag[1])
-                self.paragraph = self.doc.add_heading(level=min(h_size, 9))
+                if applyStyle:
+                    self.paragraph = self.doc.add_paragraph(style=applyStyle)
+                else:
+                    h_size = int(tag[1])
+                    self.paragraph = self.doc.add_heading(level=min(h_size, 9))
             else:
-                self.paragraph = self.doc.add_paragraph()
+                self.paragraph = self.doc.add_paragraph(applyStyle)
 
         elif tag == 'img':
             self.handle_img(current_attrs)
