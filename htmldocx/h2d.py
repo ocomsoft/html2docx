@@ -18,6 +18,8 @@ import urllib.request
 from urllib.parse import urlparse
 from html.parser import HTMLParser
 
+from pprint import pprint
+
 import docx, docx.table
 from docx import Document
 from docx.shared import RGBColor, Pt, Inches
@@ -57,6 +59,7 @@ def fetch_image(url):
 
     :return:
     """
+
     try:
         with urllib.request.urlopen(url) as response:
             # security flaw?
@@ -178,6 +181,7 @@ class HtmlToDocx(HTMLParser):
         ]
         self.table_style = DEFAULT_TABLE_STYLE
         self.paragraph_style = DEFAULT_PARAGRAPH_STYLE
+        
         self.style_map = None
 
     def set_initial_attrs(self, document=None):
@@ -253,6 +257,7 @@ class HtmlToDocx(HTMLParser):
                 # TODO map colors to named colors (and extended colors...)
                 # For now set color to black to prevent crashing
             self.run.font.highlight_color = WD_COLOR.GRAY_25 #TODO: map colors
+
 
     def apply_paragraph_style(self, style=None):
         try:
@@ -406,13 +411,20 @@ class HtmlToDocx(HTMLParser):
         """
         style = None
 
+#        print(f"checkStyleMap {tag}")
+#        pprint(current_attrs)
+
         currentClass = current_attrs.get('class', None)
+#        print(f"-- Got currentClass {currentClass}")
 
         if self.style_map and currentClass:
             tagDict = self.style_map.get(tag, None)
             if tagDict is not None:
                 style = tagDict.get(currentClass, None)
 
+#        print(f"-- Returning style {style}")
+
+#        input("checkStyleMap")
         return style
 
 
@@ -560,6 +572,11 @@ class HtmlToDocx(HTMLParser):
             self.run = self.paragraph.add_run(data)
             spans = self.tags['span']
             for span in spans:
+                # check if there's a class related style to add
+                if 'class' in span:
+                    applyClass = self.checkStyleMap('span', span)
+                    if applyClass: 
+                        self.run.style = applyClass
                 if 'style' in span:
                     style = self.parse_dict_string(span['style'])
                     self.add_styles_to_run(style)

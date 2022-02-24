@@ -1,0 +1,7 @@
+1645297306852	mozrunner::runner	INFO	Running command: "c:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\s2986288\\AppData\\Local\\Temp\\rust_mozprofile.DPUxoW6Po4NK"
+1645297307770	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 950: Error: Connection is not open.
