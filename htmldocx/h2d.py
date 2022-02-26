@@ -20,6 +20,9 @@ from html.parser import HTMLParser
 
 from pprint import pprint
 
+import base64
+import io
+
 import docx, docx.table
 from docx import Document
 from docx.shared import RGBColor, Pt, Inches
@@ -311,6 +314,13 @@ class HtmlToDocx(HTMLParser):
                 image = None
         else:
             image = src
+
+        # check if image starts with data:.*base64,
+        if image and image.startswith('data:image/'):
+            image = image.split(',')[1]
+            image = base64.b64decode(image)
+            image = io.BytesIO(image)
+
         # add image to doc
         if image:
             try:
