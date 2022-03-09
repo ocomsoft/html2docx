@@ -586,7 +586,9 @@ class HtmlToDocx(HTMLParser):
             for span in spans:
                 # check if there's a class related style to add
                 if 'class' in span:
+                    pprint(span)
                     applyClass = self.checkStyleMap('span', span)
+                    print(f"-- Applying class style {applyClass}")
                     if applyClass: 
                         self.run.style = applyClass
                 if 'style' in span:
