@@ -316,7 +316,10 @@ class HtmlToDocx(HTMLParser):
             image = src
 
         # check if image starts with data:.*base64,
-        if image and image.startswith('data:image/'):
+        imageStr = image
+        if not isinstance(image,str):
+            imageStr = image.decode('utf-8')
+        if image and imageStr.startswith('data:image/'):
             #-- convert to bytes ready to insert to docx
             image = image.split(',')[1]
             image = base64.b64decode(image)
