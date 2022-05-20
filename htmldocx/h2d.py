@@ -238,7 +238,16 @@ class HtmlToDocx(HTMLParser):
         if 'color' in style:
             if 'rgb' in style['color']:
                 color = re.sub(r'[a-z()]+', '', style['color'])
-                colors = [int(x) for x in color.split(',')]
+                #-- DJ kludge to handle cases where 0.61 in alpha
+                # - initially skip alpha
+                colors = []
+                count=0
+                for x in color.split(','):
+                    if count<3:
+                        colors.append(int(x))
+                    count+=1
+
+#                colors = [int(x) for x in color.split(',')]
             elif '#' in style['color']:
                 color = style['color'].lstrip('#')
                 colors = tuple(int(color[i:i+2], 16) for i in (0, 2, 4))
@@ -251,7 +260,16 @@ class HtmlToDocx(HTMLParser):
         if 'background-color' in style:
             if 'rgb' in style['background-color']:
                 color = color = re.sub(r'[a-z()]+', '', style['background-color'])
-                colors = [int(x) for x in color.split(',')]
+                #-- DJ kludge to handle cases where 0.61 in alpha
+                # - initially skip alpha
+                colors = []
+                count=0
+                for x in color.split(','):
+                    if count<3:
+                        colors.append(int(x))
+                    count+=1
+
+#                colors = [int(x) for x in color.split(',')]
             elif '#' in style['background-color']:
                 color = style['background-color'].lstrip('#')
                 colors = tuple(int(color[i:i+2], 16) for i in (0, 2, 4))
@@ -333,11 +351,15 @@ class HtmlToDocx(HTMLParser):
             except FileNotFoundError:
                 image = None
         if not image:
+            # 74, if it's not an image, what is it??
             if src_is_url:
-                self.doc.add_paragraph("<image: %s>" % src)
+                # TODO perhaps this should be some embedded html with the image
+                self.doc.add_paragraph("<image: %s is url>" % src)
             else:
                 # avoid exposing filepaths in document
-                self.doc.add_paragraph("<image: %s>" % get_filename_from_url(src))
+                #self.doc.add_paragraph("<image: %s>" % get_filename_from_url(src), style="Canvas File")
+                pImage = self.doc.add_paragraph()
+                pImage.add_run("<image: %s>" % get_filename_from_url(src), style="Canvas File Link")
         # add styles?
 
     def handle_table(self):

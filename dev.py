@@ -10,281 +10,512 @@ sys.path.append(".")
 
 
 html = """
-<title>Sources of Law, Constitutional Issues and Initiation of the Criminal Process</title><br/><p class="hide">[<a href="https://bblearn-blaed.griffith.edu.au/webapps/blackboard/content/listContentEditable.jsp?content_id=_6474207_1&amp;course_id=_95478_1">Original Bb page</a>]</p><br/><h1>Introduction</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Enabled: :: Review, Statistics Tracking<br \=""/>
+<div class="item clearfix" id="_6463035_1">
+<h1>Geography Teachers' Association Queensland</h1>
+</div>
+<div class="details">
+<p>
+<p>
+<a href="http://gtaq.com.au/" rel="noreferrer noopener" target="_blank"><img class="W2C_IMAGE_LINK" height="130" src="GTAQ.jpg" width="239"/></a>
+<input id="121330013_1_fileReadWritePermAvl" name="121330013_1_fileReadWritePermAvl" type="hidden" value="true"/>
 </p>
-<p><div class="vtbegenerated">
-
-<p style="text-align: justify;">We begin this course by examining the sources of Canadian criminal law and the constitutional framework in which this body of law is applied. The <em>Canadian Charter of Rights and Freedoms</em> restrains the government's ability to enact and apply criminal laws by recognising various rights, and most <em>Charter </em>litigation arises within the context of criminal cases. We also lay the foundation this week for an understanding of the criminal justice system and the trial process, and we discuss the adversarial nature of criminal proceedings and the sources of police power. </p>
-</div></p>
-<h1>Topic 1A: Sources of Canadian Criminal Law</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Enabled: :: Review, Statistics Tracking<br \=""/>
 </p>
-<p><div class="vtbegenerated">
+</div>
+<div class="moduleSample" id="_6463035_1previewModule">
+</div>
+"""
 
-<p style="text-align: justify;">There are three main sources of criminal law in Canada, namely i) the Constitution, ii) statutes enacted by the legislatures (including the <em>Criminal Code of Canada</em>), and iii) judge-made common law in the form of defences that have not been codified and common law presumptions of fault. As the "supreme law of the land," the Constitution prevails over both statutes and the common law. This means that criminal laws enacted by Parliament can be struck down if they do not comply with the Constitution. In addition, statutes prevail over the common law, largely due to concerns over clarity and certainty in the law where individuals stand to lose their liberty.</p>
-<p style="text-align: justify;">Each of these sources is discussed in this video lecture.</p>
-<p style="text-align: justify;">PDF slides for the lecture are avaiable here: 
-<span class="canvasFileLink">5251 1A Sources of Law.pdf</span>
+html = """
+<title>Library researching and referencing for 1536QCA</title>
+<br/><p class="hide">[<a href="https://bblearn-blaed.griffith.edu.au/webapps/blackboard/content/listContentEditable.jsp?content_id=_6732134_1&amp;course_id=_99031_1">Original Bb page</a>]</p>
+<br/><h1>Welcome</h1>
+<p><p>
+<table border="1" style="border-collapse: collapse; width: 100%; border-style: none; height: 339px;">
+<tbody>
+<tr style="height: 351px;">
+<td style="width: 50.0642%; border-style: none; height: 339px;"> <h4 id="anonymous_element_25">Welcome!</h4>
+<p></p>
+<p>
+       This standalone module was developed by the Library to help you with your assessment.
+     </p>
+<p></p>
+<p>
+       This module covers the following topics:
 
-<br/> </p>
-<p><p class="embed">&lt;iframe allowfullscreen="" height="420" mozallowfullscreen="mozallowfullscreen" src="/webapps/echo-library-BB5bb70f08ac35e/ltiLaunch.jsp?mediaId=ae3557f4-1fb5-40f4-9b8b-09da7a2d7af9&amp;amp;course_id=5251LAW_3218_GC" title="5251LAW_1A_Sources+o-s1-full.mp4" webkitallowfullscreen="webkitallowfullscreen" width="640"&gt;&lt;/iframe&gt;</p> <br/><br/></p>
-
-<h2 style="letter-spacing: normal; font-size: 16.9px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 26.195px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><span style="color: #c02424; text-transform: uppercase;">READ</span> about this topic</h2>
-<h3 style="letter-spacing: normal; font-size: 14.95px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.1725px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><span style="color: #c02424; text-transform: uppercase;">OPTIONAL</span></h3>
-
-<h3 style="letter-spacing: normal; font-size: 14.95px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.1725px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><i>Frey v Fedoruk et al</i>, [1950] SCR 517</h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2724/index.do" rel="noopener" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; text-shadow: none; letter-spacing: normal; color: #8c2f2f; text-decoration: underline;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="letter-spacing: normal; font-size: 14.95px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.1725px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><i>R v Jobidon</i>, [1991] 2 SCR 714</h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/784/index.do" rel="noopener" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; text-shadow: none; letter-spacing: normal; color: #8c2f2f; text-decoration: underline;" target="_blank">click here to read</a>).</p>
-
-
-<p style="font-family: 'Open Sans', sans-serif; overflow-wrap: break-word; margin-bottom: 1em; color: #111111; font-size: small; text-align: left; background-color: #ffffff; clear: both; text-shadow: none;">
-<span style="font-family: 'Open Sans', sans-serif; margin: 0px; padding: 0px; border-width: 0px; outline-width: 0px; font-weight: bold; font-size: 16.9px; color: #c02424; text-transform: uppercase; background-color: #ffffff; float: none; text-shadow: none; display: inline;">EXPLORE</span>
-<span style="font-family: inherit; margin: 0px; padding: 0px; border-width: 0px; outline-width: 0px; font-weight: bold; font-style: inherit; font-size: 16.9px; text-shadow: none;"> the Criminal Code of Canada, RSC 1985, c C-46 </span>
+<br/>
+<br/>
 </p>
-<p style="font-family: 'Open Sans', sans-serif; overflow-wrap: break-word; margin: 0px 0px 1em; font-size: small; text-decoration-line: none; padding: 0px; border-width: 0px; outline-width: 0px; line-height: 20.15px; caret-color: #000000; color: #000000; background-color: #ffffff; text-shadow: none;">
 <ul>
-<li>Explore broadly, but in particular ss 8 and 9 for this topic</li>
-<li><span style="font-size: 10pt;">The statute is available on the Justice<span style="font-family: inherit; margin: 0px; padding: 0px; border-width: 0px; outline-width: 0px; font-style: inherit; text-shadow: none;"> Laws Website <a href="https://laws-lois.justice.gc.ca/eng/acts/C-46/page-4.html#docCont" rel="noopener" target="_blank">here</a></span> </span></li>
+<li>Academic integrity
+<br/>
+<br/></li>
+<li> <p>Searching techniques</p> </li>
+<li> <p>Searching the Library Catalogue</p> </li>
+<li> <p>Searching the Library databases</p> </li>
+<li> <p>Searching using Google Scholar</p> </li>
+<li> <p>Identifying and locating scholarly literature</p> </li>
+<li> <p>Evaluating information</p> </li>
+<li> <p>Referencing using Chicago (notes &amp; bibliography)</p> </li>
+</ul> </td>
+<td class="nowrapCell" style="width: 49.9358%; border-style: none; height: 339px;">
+<br/>
+<img alt="Stack of open magazines" class="W2C_IMAGE_LINK" height="255" src="magazine-806073_1920.jpg" style="border: 0px solid #000000;" width="384"/>
+
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br/></p>
+<p>
+<br/></p>
+<h5 id="anonymous_element_26">Adding to your employability skills</h5>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/employability.svg" style="width: 100px; height: auto; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<p>
+<p>
+     Researching and referencing uses several transferable skills that show your:
+   </p>
+<ul>
+<li>Communication (attention to detail)</li>
+<li>Ability to find, critically evaluate, and use information</li>
+<li>Ability to act with ethical awareness and academic integrity</li>
+<li>Problem solving skills (in literature searching, collecting and collating information).</li>
 </ul>
 </p>
-</div></p>
-<h1>Topic 2A: Constitutional Issues in Criminal Law</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Enabled: :: Review, Statistics Tracking<br \=""/>
+</div>
+<p style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0pt 0in; padding: 0px; outline: currentcolor none 0px; font-family: 'Open Sans', sans-serif; font-size: small; line-height: normal; overflow: visible; color: #000000; text-align: left; text-indent: 0in; background-color: #fefefe; direction: ltr; unicode-bidi: embed; word-break: normal;">
+<span style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0px; padding: 0px; outline: currentcolor none 0px; font-weight: bold; font-family: Arial; font-size: 10pt; line-height: 18.6px; color: black; vertical-align: baseline;"><a href="https://www.griffith.edu.au/employability" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732135_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww.griffith.edu.au%2Femployability';" style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0px; padding: 0px; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; color: #8c2f2f; text-decoration: underline; line-height: 18.6px;">Employability - Griffith University</a> </span>
 </p>
-<p><div class="vtbegenerated">
-<p style="text-align: justify;">Constitutional law is relevant to Canadian criminal law for a number of reasons. First of all, only the federal Parliament can enact laws concerning criminal law and procedure, pursuant to section 91(27) of the <em>Constitution Act, 1867. </em>Key pieces of federal criminal legislation are the Criminal Code of Canada, the <em>Controlled Drugs and Substances Act</em> and the <em>Youth Criminal Justice Act</em>. However, the provinces can also create offences, so long as the dominant purpose of the legislation is to regualte a matter within provincial jurisdiction. The provinces have enacted highway traffic offences, as well as regulatory and public welfare offences, pursuant to their powers under section 92 of the <em>Constitution Act, 1867.</em> In addition, the Constitution plays a critical role in protecting the rights of individuals within the criminal justice system. Police, prosecutors, prison officials, and the courts must ensure that the rights of the accused under the <em>Charter</em> are not violated. Where a violation occurs, remedies are available under section 24 of the <em>Charter</em>. Thus, constitutional law imposes limits upon government actors within the criminal context.</p>
-<p>This video provides an introduction to the role of the <em>Charter </em>in Constitutional Law.</p>
-<p><p class="embed">&lt;iframe allowfullscreen="" height="420" mozallowfullscreen="mozallowfullscreen" src="/webapps/echo-library-BB5bb70f08ac35e/ltiLaunch.jsp?mediaId=12d33d42-41c7-40ac-9af5-ea545057a944&amp;amp;course_id=5251LAW_3218_GC" title="5251LAW_2A_Consti.mp4" webkitallowfullscreen="webkitallowfullscreen" width="640"&gt;&lt;/iframe&gt;</p> <br/><br/></p>
+<p style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0pt 0in; padding: 0px; outline: currentcolor none 0px; font-family: 'Open Sans', sans-serif; font-size: small; line-height: normal; overflow: visible; color: #000000; text-align: left; text-indent: 0in; background-color: #fefefe; direction: ltr; unicode-bidi: embed; word-break: normal;">
 
-
-<h3 style="letter-spacing: normal; font-size: 14.95px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.1725px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><span style="color: #c02424; text-transform: uppercase;">OPTIONAL</span></h3>
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Malmo-Levine; R v Caine</em>, [2003] 3 SCR 571</span></h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2109/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;"></em><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.949999809265137px; line-height: 23.172500610351563px;">R v Labaye,</em> [2005] 3 SCR 728</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2263/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i>R v Oakes</i>, [1986] 1 SCR 103</span></h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/117/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank"> click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Starr, </em>[2000] 2 SCR 144</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1804/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i>R v JHS</i>, [2008] 2 SCR 152</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/4641/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank"> click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i>R v Lifchus</i></span><span style="font-size: 14.95px; font-weight: bold;">, [1997] 3 SCR 320</span></h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1543/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;"></em><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.949999809265137px; line-height: 23.172500610351563px;">R v Cinous</em>, [2002] 2 SCR 3</span></h3>
-<p>This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1968/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i>R v Fontaine</i></span><span style="font-size: 14.95px; font-weight: bold;">, [2004] 1 SCR 702</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2140/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Jordan, </em>[2016] 1 SCR 631</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/16057/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank"> click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em>R v Cody</em>, [2017] 1 SCR 659</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/16693/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-<p><img height="75" src="https://app.secure.griffith.edu.au/gois/icon-set/icon-reading.png" style="float: left;" width="98"/><span style="font-size: 14.95px; font-weight: bold;"><em>Canada (Attorney General) v Bedford</em>, [2013] 3 SCR 1101 </span></p>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website 
-(<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13389/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank"> click here to read</a>).</p>
-
-
-
-<p style="clear: both;"><span style="color: #c02424; font-family: 'Open Sans', sans-serif; font-size: 16.9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">EXPLORE</span><span style="font-size: 16.9px; font-weight: bold;"> the Constitution Acts, 1867 to 1982</span></p>
-<p style="text-shadow: none !important; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 13px;">Review and familiarise yourself with sections 91(27) and 92(14) of the <em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 13px; line-height: 20.149999618530273px;">Constitution Act, 1867</em> and section 52 of the <em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 13px; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">Constitution Act, 1982</em>, as well as sections 7 to 14 of the <em>Canadian Charter of Rights and Freedoms</em>. <br style="text-shadow: none !important; letter-spacing: normal !important; line-height: 20.149999618530273px;"/><br/><br/><br/><br/></span></p>
-<div style="overflow: hidden;">
-<div style="float: left;">
-<img src="https://app.secure.griffith.edu.au/gois/icon-set/icon-webLink.png" style="text-shadow: none !important; letter-spacing: normal !important; border: 0px; cursor: default; margin: 0px; padding: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; vertical-align: middle; line-height: 20.149999618530273px; max-width: 100%; height: auto;"/>
-</div>
-<div style="overflow: hidden;">
-<h4 style="text-shadow: none !important; letter-spacing: normal !important; font-size: 19.5px; margin: 0px 0px 0.7em; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: inherit; font-family: inherit; line-height: 30.225000381469727px;">Government of Canada, Justice Laws Website</h4>
-<p style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.149999618530273px;"><a href="https://laws-lois.justice.gc.ca/eng/Const/" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.149999618530273px;" target="_blank">Click here to view the website</a></p>
-</div>
-</div>
-
-
-
-
-<h2></h2>
-
-
-<h3 style="margin-top: -15px;"></h3>
-<h3 style="margin-top: -15px;"><span style="color: #c02424; text-transform: uppercase;">Watch [OPTIONAL]</span> Transforming the Criminal Justice System: Court Delays</h3>
-<p style="text-align: justify;"><span style="background-color: #ffffff;">This video by the Department of Justice Canada depicts the impact of lengthy court delays on the families of victims of crime. </span></p>
-<p><p class="embed">&lt;iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lm7ELdQ1_qc" width="560"&gt;&lt;/iframe&gt;</p></p>
-
-
-<h3 style="margin-top: -15px;"><span style="color: #c02424; text-transform: uppercase;">WATCH [OPTIONAL]</span><span class="Apple-converted-space"> </span>SCC addresses issue of unreasonable delay for trials</h3>
-<p><p class="embed">&lt;iframe frameborder="0" height="315" src="https://www.youtube.com/embed/OAmhdbTx5Jc" width="560"&gt;&lt;/iframe&gt;</p></p>
-
-
-</div></p>
-<h1>Topic 1B: The Adversarial Process</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Enabled: :: Review, Statistics Tracking<br \=""/>
 </p>
-<p><div class="vtbegenerated">
+<p style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0pt 0in; padding: 0px; outline: currentcolor none 0px; font-family: 'Open Sans', sans-serif; font-size: small; line-height: normal; overflow: visible; color: #000000; text-align: left; text-indent: 0in; background-color: #fefefe; direction: ltr; unicode-bidi: embed; word-break: normal;">
 
-<p style="text-align: justify;">Criminal liability is determined within an adversarial process, and a trial is the opportunity for the Crown prosecutor to prove the specific allegation made in the charge (information or indictment) beyond a reasonable doubt. Trials occur before a neutral, impartial trier of law (to make legal decisions) and a neutral, impartial trier of fact (i.e. the jury, to make factual findings at the end of the trial), where the offence charged warrants a jury trial. Otherwise, most trials occur before a <span style="caret-color: #000000; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;">neutral, impartial trier of fact (i.e. a judge) who makes determinations on both legal and factual matters. The prosecutor is an advocate on behalf of the Crown, but also a quasi-judicial officer. Defence counsel advocates on behalf of accused, but is also an officer of the court, and thereforemust be respectful and honest with the court and must not attempt to mislead the court as to the state of the law. Key aspects of the adversarial process are discussed in this section. </span></p>
-
-<p style="text-align: justify;"><span style="caret-color: #000000; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;">A video lecture for this topic is available here.</span></p>
-<p style="text-align: justify;"><span style="caret-color: #000000; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;"><p class="embed">&lt;iframe allowfullscreen="" height="420" mozallowfullscreen="mozallowfullscreen" src="/webapps/echo-library-BB5bb70f08ac35e/ltiLaunch.jsp?mediaId=ee4f791a-9a88-45e9-bcb4-7ede7c97102f&amp;amp;course_id=5251LAW_3218_GC" title="5251LAW_1B_The+Adverial+process+post.mp4" webkitallowfullscreen="webkitallowfullscreen" width="640"&gt;&lt;/iframe&gt;</p> <br/> <br/><br/></span></p>
-<p style="text-align: justify;">PDF slides from the lecture can be viewed here: <span style="caret-color: #000000; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;">
-<span class="canvasFileLink">5251 1B Adversarial Process.pdf</span>
-
-<br/> </span></p>
-
-
-<h2 style="letter-spacing: normal; font-size: 16.9px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 26.195px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><span style="color: #c02424; text-transform: uppercase;">OPTIONAL</span></h2>
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Gunning</em>, [2005] 1 SCR 627</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2228/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;"></em><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.949999809265137px; line-height: 23.172500610351563px;">R v Hamilton,</em> [2004] OJ No 3252</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://www.ontariocourts.ca/decisions/2004/august/C39716.pdf" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">Krieger v Law Society of Alberta</i>, [2002] 3 SCR 372</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2007/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Nixon,<span class="Apple-converted-space"> </span></em>[2011] 2 SCR 566</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/7949/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v Babos</i>, [2014] 1 SCR 309</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13487/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v Anderson</i></span><span style="font-size: 14.95px; font-weight: bold;">, [2014] 2 SCR 167</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14222/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-
-<p style="clear: both;"><span style="color: #c02424; font-family: 'Open Sans', sans-serif; font-size: 16.9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">EXPLORE </span><span style="font-size: 16.9px; font-weight: bold;">the Model Code of Professional Conduct</span></p>
-<p style="text-shadow: none !important; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 13px;">Review and familiarise yourself with sections 3.3 and 5.1 of the <em>Model Code of Professional Conduct</em> issued by the Federation of Law Societies of Canada. <br style="text-shadow: none !important; letter-spacing: normal !important; line-height: 20.149999618530273px;"/><br/><br/><br/><br/><br/><br/><br/></span></p>
-<div style="overflow: hidden;">
-<div style="float: left;">
-<img src="https://app.secure.griffith.edu.au/gois/icon-set/icon-webLink.png" style="text-shadow: none !important; letter-spacing: normal !important; border: 0px; cursor: default; margin: 0px; padding: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; vertical-align: middle; line-height: 20.149999618530273px; max-width: 100%; height: auto;"/>
-</div>
-<div style="overflow: hidden;">
-<h4 style="text-shadow: none !important; letter-spacing: normal !important; font-size: 19.5px; margin: 0px 0px 0.7em; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: inherit; font-family: inherit; line-height: 30.225000381469727px;">Model Code of Professional Conduct </h4>
-<p style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.149999618530273px;"><a href="https://flsc.ca/wp-content/uploads/2014/12/conduct1.pdf" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6474221_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_95478_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fflsc.ca%2Fwp-content%2Fuploads%2F2014%2F12%2Fconduct1.pdf';"><span color="#8c2f2f" face="inherit" style="color: #8c2f2f; font-family: inherit;"><span style="font-style: inherit;"><span style="text-decoration: underline;">Click here to view the C</span></span></span>ode</a></p>
-</div>
-</div>
-
-
-
-
-<h3><span style="color: #c02424; text-transform: uppercase;"><img height="75" src="https://app.secure.griffith.edu.au/gois/icon-set/icon-watch.png" style="float: left;" width="98"/>Watch </span>Criminal Trial Process in Ontario at the Ontario Court of Justice</h3>
-<p style="text-align: justify;"><span style="background-color: #ffffff;">In this video, Craig Penny, a criminal defence lawyer, discusses the criminal law process for summary conviction and other trials at the Ontario Court of Justice.<br/></span></p>
-<p style="margin-left: 90px;"><p class="embed">&lt;iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0y1xe2BD5ds" width="560"&gt;&lt;/iframe&gt;</p></p>
-
-</div></p>
-<h1>Topic 2B: Police Powers and Arrest, Charging Documents and Bail Hearings</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Availability: :: Item is hidden from students.<br \=""/>
--- Enabled: :: Review, Statistics Tracking<br \=""/>
 </p>
-<p><div class="vtbegenerated">
+<p style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0pt 0in; padding: 0px; outline: currentcolor none 0px; font-family: 'Open Sans', sans-serif; font-size: small; line-height: normal; overflow: visible; color: #000000; text-align: left; text-indent: 0in; background-color: #fefefe; direction: ltr; unicode-bidi: embed; word-break: normal;">
+<p>
+<br/></p>
 
-<p style="text-align: justify;">Police officers are independent of the Crown prosecutor in Canada. This independence is important to permit the prosecutor to act as a quasi-judicial officer, and not get too close to the mindset of an investigator. Still, the police will often seek legal advice from Crown prosecutors, including on the wording of search warrants and the scope of their powers. In the interests of securing liberty, the powers of the police are constrained by law, although they can be derived from statute, common law and by implication from statute and common law. Police powers are also significantly limited by the <em>Charter, </em>which provides for an array of rights for an individual who has been detained.<em> </em>Once an individual is arrested, a charging document is issued, known as an information or indictment  (depending on the offence charged) setting out the charges against the person. The powers of the police in relation to investigation and arrest, as well as the procedure for charging an accused, are discussed in this section. </p>
-
-
-
-
-<h2 style="text-shadow: none !important; letter-spacing: normal; font-size: 16.899999618530273px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 26.19499969482422px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="color: #c02424; text-transform: uppercase;">READ</span><span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 16.9px; line-height: 26.195px;"> </span>about this topic</h2>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Grant</em>, [2009] 2 SCR 353</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/7799/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;"></em><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.949999809265137px; line-height: 23.172500610351563px;">R v Suberu,</em> [2009] 2 SCR 460</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/7800/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v Aucoin</i>, [2012] 3 SCR 408</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/12743/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Cole,<span class="Apple-converted-space"> </span></em>[2012] 3 SCR 34</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/12615/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v Spencer</i>, [2014] 2 SCR 212</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Canada Justice Laws website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14233/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v St Cloud</i></span><span style="font-size: 14.95px; font-weight: bold;">, [2015] 2 SCR 328</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/15358/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;"></em><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.949999809265137px; line-height: 23.172500610351563px;">R v Antic</em>, [2017] 1 SCR 509</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/16649/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><i style="text-shadow: none !important; letter-spacing: normal !important; line-height: 23.172500610351563px;">R v MacDonald</i></span><span style="font-size: 14.95px; font-weight: bold;">, [2014] 1 SCR 37</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13410/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-<h3 style="text-shadow: none !important; letter-spacing: normal; font-size: 14.949999809265137px; margin: 1em 0px; padding: 0px; border: 0px; outline: 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 23.172500610351563px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><span style="font-size: 14.95px; font-weight: bold;"><em style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: italic; font-family: inherit; font-size: 14.95px; line-height: 23.1725px;">R v Marakah,<span class="Apple-converted-space"> </span></em>[2017] 2 SCR 608</span></h3>
-<p style="letter-spacing: normal; margin: 0px 0px 1em 90px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none !important;">This case is available on the Supreme Court of Canada website (<a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/16896/index.do" rel="noreferrer noopener" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; color: #8c2f2f !important; text-decoration: underline !important; line-height: 20.15px;" target="_blank">click here to read</a>).</p>
-
-
-
-
-</div></p>
-<h1>Workshop Preparation</h1>
-<p class="hide">Item headers</p><p class="hide">
--- Enabled: :: Review, Statistics Tracking<br \=""/>
 </p>
-<p><div class="vtbegenerated">
-<h3><span style="font-size: 14pt;">Please review the following exercises in advance of the workshop and come prepared to discuss.  </span></h3>
-<h4 style="text-shadow: none !important; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.149999618530273px; caret-color: #000000; color: #000000; font-variant-caps: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none;"><strong><span style="font-size: 14pt;">Exercise 1 — Doctors on Trial: The use of the <em>Charter</em> challenge as a defence strategy.  </span></strong></h4>
+<p style="text-shadow: none; box-sizing: inherit; border: 0px none; margin: 0pt 0in; padding: 0px; outline: currentcolor none 0px; font-family: 'Open Sans', sans-serif; font-size: small; line-height: normal; overflow: visible; color: #000000; text-align: left; text-indent: 0in; background-color: #fefefe; direction: ltr; unicode-bidi: embed; word-break: normal;">
+<p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 70px; height: auto; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p>
 <div style="overflow: hidden;">
+<p>If you are still not sure what to do after working through this tutorial, you should:</p>
+<ul style="list-style-type: disc;">
+<li style="list-style-type: square;">Contact a member of the teaching team if your questions are specifically about the content of your assignment</li>
+<li style="list-style-type: square;"><a href="https://intranet.secure.griffith.edu.au/library/forms/help" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732135_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fintranet.secure.griffith.edu.au%2Flibrary%2Fforms%2Fhelp';">Get help from the Library</a> - a Librarian can assist with research and referencing and a Learning Adviser can assist with assignment writing</li>
+<li style="list-style-type: square;">Refer to the <a href="https://www.griffith.edu.au/library/study" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732135_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww.griffith.edu.au%2Flibrary%2Fstudy';">Library Study pages</a></li>
+<li style="list-style-type: square;">Access <a href="https://www2.griffith.edu.au/library/study/smarthinking" rel="noopener" target="_blank">Smarthinking</a>, a free online tutoring service, for help with planning, preparing or writing your assignment</li>
+</ul>
+</div>
+
+</p>
+</p></p>
+<h1>Academic integrity</h1>
+<p><p>
+<h4 id="anonymous_element_28">Academic integrity</h4>
+<p>Academic integrity is about being honest, respectful and fair in your academic work. An example of acting with academic integrity is to correctly reference your work, which shows you are being honest about where the information or idea came from and respectful of the author of the work you are citing.</p>
+<p>To understand more about what academic integrity is, why it is important and the University's policies on academic integrity you can complete the <a href="https://www.griffith.edu.au/academic-integrity#tutorial" rel="noopener" target="_blank">Academic Integrity Student Tutorial</a>.</p>
+<p>
+<br/>
+<a href="https://www.griffith.edu.au/academic-integrity#tutorial" rel="noopener" target="_blank"><img alt="Screenshot of Academic integrity student tutorial. " class="W2C_IMAGE_LINK" height="229" src="Academic integrity tutorial.png" style="border: 0px solid #000000;" width="546"/></a>
+
+<br/> </p>
+</p></p>
+<h1>Creating a search statement</h1>
+<p><p>
+<h4 id="anonymous_element_30">Creating a search statement</h4>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #fefefe; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;">A search statement is the combination of keywords that will be entered into the search box of the Library Catalogue, databases, or Google Scholar.</span></p>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #fefefe; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;"><span style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; line-height: 20.15px;">Start by identifying the topic words in your assignment task. Check out the <a href="https://www.griffith.edu.au/library/study/prepare-assignments/understand-your-assessment" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732137_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww.griffith.edu.au%2Flibrary%2Fstudy%2Fprepare-assignments%2Funderstand-your-assessment';">Understand your assessment</a> information on the Library Study pages for help with identifying these. You will also need to think of any alternative words for your topic words (such as synonyms or different spellings). The topic words and alternative words will all be the keywords in your search statement. Use the techniques below to put these words together into an effective search statement.
+<br/>
+<br/><span style="text-shadow: none; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; line-height: 20.15px;">Some common search techniques used when creating a search statement include:</span> </span></span></p>
+<h6 id="anonymous_element_31">Phrase Searching:</h6>
+<p><span style="font-size: 10pt;"><strong></strong><span style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; line-height: 20.15px;">Use quotation marks around words to search for the words in that order.  Instead of searching for the word 'global' and the word 'warming' it will search for "global warming".</span></span></p>
+<p><span style="font-size: 10pt;"><span style="color: #000000;"><strong><span style="margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-style: inherit; font-family: inherit; line-height: 20.15px; text-shadow: none; letter-spacing: normal;">"global warming"
+<br/>
+<br/>"artificial intelligence" </span></strong></span></span></p>
+
+<p><span style="font-size: 10pt; color: #000000;"><strong><span style="margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-style: inherit; font-family: inherit; line-height: 20.15px; text-shadow: none; letter-spacing: normal;">"Mona Lisa"</span></strong></span></p>
+
+<h6 id="anonymous_element_32"></h6>
+<h6 id="anonymous_element_33">Truncation:</h6>
+<p><span style="font-size: 10pt;"><strong></strong>When adding an asterisk onto the end of a word, the search will come back with the word plus any letters that can appear afterwards.  In this example, results will include design, designs, designing, designer etc.</span></p>
+<p><span style="font-size: 10pt; color: #000000;"><strong>design*</strong></span></p>
+<h6 id="anonymous_element_34"></h6>
+
+<h6 id="anonymous_element_35">Boolean Operations:</h6>
+<h6 id="anonymous_element_36"></h6>
+<p><span style="font-size: 10pt;"><strong style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 20.15px; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #fefefe; text-decoration-style: initial; text-decoration-color: initial;"></strong>Boolean operations are a great way to join keywords together and create a search strategy.  Click on the information symbol below to read more about Boolean operations.</span></p>
+<div style="max-width: 540px;">
+<p><p class="embed">&lt;iframe allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://griffith.h5p.com/content/1290721737060288219/embed" style="font-size: small;" width="540"&gt;&lt;/iframe&gt;</p></p>
+<span style="font-size: 10pt;"> </span>
+</div>
+<div style="max-width: 540px;"></div>
+<div style="max-width: 540px;"></div>
+<h6 id="anonymous_element_37"></h6>
+<h6 id="anonymous_element_38"><span style="font-size: 10pt;"><strong open="" sans="" sans-serif="">Example search statements:</strong></span></h6>
+<p><span style="font-size: 10pt;">To search for information about the impact of artificial intelligence on design, designs or designing, the following search statement could be used:
+<br/>
+<br/><span style="color: #000000;"><strong>("artificial intelligence" OR AI) AND design*</strong></span>
+<br/></span></p>
+<p>
+<br/>To search for information about sustainability and public art the following search statement could be used:
+<br/>
+<br/><strong>"public art" AND sustainab*</strong> </p>
+
+<h6 id="anonymous_element_39" style="overflow: hidden;">Activity - create your search statement</h6>
 <div style="overflow: hidden;">
-<p style="padding-left: 40px;"><span style="font-size: 12pt;">
-<span class="canvasFileLink">Charter excercise.docx</span>
-
-</span></p>
-<h4 style="letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><strong><span style="font-size: 14pt;">Exercise 2 — </span></strong><strong style="font-family: 'Open Sans', sans-serif; font-size: small;"><span style="font-size: 14pt;"><em>Charter </em>s 11(b) the right to be tried within a reasonable time</span></strong></h4>
-<p id="anonymous_element_36" style="font-family: 'Open Sans', sans-serif; margin: -15px 0px 1em; padding: 0px 0px 0px 40px; border-width: 0px; outline-width: 0px; font-size: 16.38px; color: #111111; text-align: left; background-color: #ffffff; text-shadow: none;"><span style="font-family: inherit; margin: 0px; padding: 0px; border-width: 0px; outline-width: 0px; font-weight: inherit; font-style: inherit; font-size: 16.38px; color: #c02424; text-transform: uppercase; text-shadow: none;"><br><span style="font-size: 12pt;">
-<span class="canvasFileLink">Right to be tried in a reasonable time.docx</span>
-
-</span><br/> <br/></br></span></p>
-<h4 style="letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><strong><span style="font-size: 14pt;">Exercise 3 — Interim detention under <em>Criminal Code </em>s 515</span></strong></h4>
-<p style="letter-spacing: normal; margin: 0px 0px 1em; padding: 0px 0px 0px 40px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; caret-color: #000000; color: #000000; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; text-shadow: none;"><strong><span style="font-size: 14pt;"><span style="font-size: 12pt;">
-<span class="canvasFileLink">Interim detention.docx</span>
-
-</span><br/> </span></strong></p>
+<p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/activity.svg" style="width: 70px; height: auto; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p>
+<div style="overflow: hidden;">
+<p>Let's create your search statement to use in the Library catalogue, databases and Google Scholar.</p>
+<p>1. Analyse your assignment question or task - what are the main topics/keywords? Are there any alternate words or spellings you could also include?</p>
+<p>2. Apply the phrase searching and truncation techniques as needed.</p>
+<p>3. Join your keywords and alternate words or spellings together by using the Boolean operators AND/OR. Remember to place keywords separated by OR into brackets.</p>
 </div>
 </div>
-</div></p>
+<p>You can now start using your search statement to find resources for your assignment. As you search you may find you need to modify your search statement by removing or adding keywords to find the most relevant results for your topic.</p>
+<p>
+<br/></p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<h6 id="anonymous_element_40" style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 0.7em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: 16.9px; line-height: 26.195px; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(254, 254, 254, 0.61); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;"><strong>Further information</strong></span></h6>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(254, 254, 254, 0.61); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;"><span style="background-color: rgba(254, 254, 254, 0.61); color: #000000; font-family: 'Open Sans', sans-serif; font-style: normal; font-weight: 400;">Additional resources for this section that may be of use to you:</span></span></p>
+<ul>
+<li style="text-shadow: none; letter-spacing: normal; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(254, 254, 254, 0.61); text-decoration-style: initial; text-decoration-color: initial;"><a href="https://www.griffith.edu.au/library/study/prepare-assignments/prepare-to-search" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732137_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww.griffith.edu.au%2Flibrary%2Fstudy%2Fprepare-assignments%2Fprepare-to-search';">Prepare to search</a></li>
+</ul>
+</div>
+</div>
+</p></p>
+<h1>Searching the Library catalogue</h1>
+<p><p>
+<h4 id="anonymous_element_42">Searching the Library catalogue</h4>
+<p>Through the Library catalogue search box you will be able to find and access the majority of library resources, available either online 24/7 or physically on our shelves. Watch the video or view the transcript to find out how to use the Library catalogue effectively including how to search, use the refinements and save and email search results.</p>
+<p>
+<br/></p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+
+<p><span style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 10pt; line-height: 20.15px;">The following video from the Library gives you a click-by-click demonstration on how to search the Library Catalogue efficiently and effectively.</span></p>
+<p>
+<br/></p>
+<p>
+<br/></p>
+</div>
+<p><p class="embed">&lt;iframe allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="360" src="https://player.vimeo.com/video/366398938" width="640"&gt;&lt;/iframe&gt;</p></p>
+</div>
+<div style="overflow: hidden;"></div>
+<div style="overflow: hidden;">
+<p><span style="color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline; float: none;">You can download the transcript:</span><br style="text-shadow: none; letter-spacing: normal; line-height: 20.15px; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;"/>
+<br/>
+<span class="canvasFileLink">2022-T1_LibraryCatalogueTranscript-VisualAndCreativeArts.pdf</span>
+
+<br/> 
+<br/></p>
+</div>
+</p></p>
+<h1>Searching the Library databases</h1>
+<p><p>
+<p>
+<p>
+<h4 id="anonymous_element_44">Searching the Library databases</h4>
+</p>
+</p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p> <span style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; line-height: 20.15px;">
+<br/>The following video from the Library gives you a click-by-click demonstration on how to use the Visual and creative arts library guides to locate subject specific scholarly resources. </span></span>
+</div>
+<div style="max-width: 400px;">
+<p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/366660011" width="640"&gt;&lt;/iframe&gt;</p></p>
+<span style="font-size: 10pt;"> </span>
+</div>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: 10pt; line-height: 20.15px; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff; float: none; display: inline;">You can download the transcript:</span></p>
+<p><span style="font-size: 10pt;"><span style="color: #000000; font-family: 'Open Sans', sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline; float: none;">
+<br/>
+<span class="canvasFileLink">2022-T1_VisualArtsDatabasesTranscript.pdf</span>
+
+<br/> 
+<br/>
+<br/></span> Reference databases contain subject specific information such as definitions, terms, timelines, and artist and works information. You may like to consider using the following reference databases : </span></p>
+<ul>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><a href="https://www-oxfordreference-com.libraryproxy.griffith.edu.au/" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732139_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww-oxfordreference-com.libraryproxy.griffith.edu.au%2F';"><span style="font-size: 10pt;">Oxford Reference</span></a></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><span style="font-size: 10pt;"><a href="https://www-oxfordartonline-com.libraryproxy.griffith.edu.au/" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732139_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww-oxfordartonline-com.libraryproxy.griffith.edu.au%2F';">Oxford Art Online</a></span></li>
+</ul>
+
+<p><span style="font-size: 10pt;">You may like to consider using the following <a href="https://libraryguides.griffith.edu.au/c.php?g=540282&amp;p=6849652" rel="noopener" target="_blank">Library databases</a> to locate scholarly literature such as journal articles, conference papers, and theses:</span></p>
+<ul>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><span style="font-size: 10pt;">Art Full Text</span></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><span style="font-size: 10pt;">Taylor and Francis Journals</span></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><span style="font-size: 10pt;">JSTOR</span></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; display: list-item; list-style-position: outside; list-style-type: inherit; line-height: 20.15px;"><span style="font-size: 10pt;">ProQuest</span></li>
+</ul>
+</p></p>
+<h1>Search using Google Scholar</h1>
+<p><p>
+<div style="overflow: hidden;">
+<div style="overflow: hidden;">
+<h4 id="anonymous_element_46">Search using Google Scholar</h4>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 69px; height: 60px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<p><span style="font-size: 10pt;">
+<br/>The following video from the Library explains the value of Google Scholar and gives you a click-by-click demonstration on how to search Google Scholar and set up Fulltext@Griffith links to access content via Griffith Library suscriptions.</span></p>
+</div>
+</div>
+</div>
+</div>
+<div style="max-width: 400px;">
+<p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/438747401" width="640"&gt;&lt;/iframe&gt;</p></p>
+</div>
+
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline; float: none;">You can download the video and transcript:</span><br style="text-shadow: none; letter-spacing: normal; line-height: 20.15px; color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;"/><span style="color: #000000; font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline; float: none;"><a href="https://vimeo.com/user82369617/download/438747401/2e9a69c40f" rel="noreferrer noopener" target="_blank" title="Search using Google Scholar">Search using Google Scholar (VIDEO)</a></span></p>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;">
+<span class="canvasFileLink">Search using Google Scholar (TRANSCRIPT-pdf)</span>
+
+</p>
 
 
+<h6 id="anonymous_element_47" style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 0.7em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: 16.9px; line-height: 26.195px; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(254, 254, 254, 0.61); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;">Further Information</span></h6>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<span style="background-color: #fefefe; font-family: 'Open Sans', sans-serif; font-size: 10pt; font-style: normal; font-weight: 400;">Additional resources for this section that may be of use to you:</span>
+
+</div>
+<ul>
+<li><span style="text-decoration: underline; font-size: 10pt;"><span style="color: #993300;"><span style="letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: normal; font-style: normal; font-family: 'Open Sans', sans-serif; line-height: 20.15px; color: #993300; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; float: none; text-shadow: none; display: inline; text-decoration: underline;"><a href="https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3033/kw/Google%20scholar" rel="noopener" target="_blank"><span style="color: #000000; text-decoration: underline;">How do I setup Google <span>Scholar</span> to access Griffith full-text articles?</span></a></span></span></span></li>
+</ul>
+</div>
+</p></p>
+<h1>Identifying scholarly literature</h1>
+<p><p>
+<h4 id="anonymous_element_49">Identifying scholarly literature</h4>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #fefefe; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;">Your assessment should contain high quality, scholarly sources of information. Scholarly literature contains in-depth research and/or analysis and is written by academics, scholars and researchers. It is mostly found in journals, books, conference papers, theses, and reports.</span></p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;">The following video from the Library explains how to identify scholarly literature.</span></p>
+</div>
+</div>
+<div style="max-width: 400px;">
+<p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/340604311?texttrack=en" style="font-size: 13px;" width="640"&gt;&lt;/iframe&gt;</p></p>
+</div>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 1em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: 400; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: small; line-height: 20.15px; position: relative; overflow: visible; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #fefefe; text-decoration-style: initial; text-decoration-color: initial;">You can download the video and transcript:
+<br/><a href="https://vimeo.com/user82369617/download/340604311/30028400c1" rel="noreferrer noopener" target="_blank">Scholarly and peer reviewed journal articles (VIDEO)</a>
+<br/><a href="https://griffitheduau.sharepoint.com/:b:/s/LearningObjectsLibrary/EYKJm9CyQX1MtJ16FNcHKuUBuBV-zPN5xiCIa3hf_lqWSA" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732141_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fgriffitheduau.sharepoint.com%2F%3Ab%3A%2Fs%2FLearningObjectsLibrary%2FEYKJm9CyQX1MtJ16FNcHKuUBuBV-zPN5xiCIa3hf_lqWSA';">Scholarly and peer reviewed journal articles (TRANSCRIPT - PDF)</a></p>
+<p><span style="font-size: 10pt;">You may like to consider using the following sources to locate scholarly literature:</span></p>
+<ul>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;">the <a href="https://www.griffith.edu.au/library" rel="noopener" target="_blank">Library Catalogue</a></span></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;">library databases; primary sources; websites listed in the <a href="https://libraryguides.griffith.edu.au/arts-guides" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732141_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Flibraryguides.griffith.edu.au%2Farts-guides';">Visual and creative arts library guides</a></span></li>
+<li style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;"><a href="https://scholar.google.com.au/" rel="noopener" target="_blank">Google Scholar</a></span></li>
+</ul>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;">For further information about using these sources refer to the relevant sections of this module.</span></p>
+<h6 id="anonymous_element_50" style="text-shadow: none; letter-spacing: normal; margin: 0px 0px 0.7em; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: bold; font-style: normal; font-family: 'Open Sans', sans-serif; font-size: 16.9px; line-height: 26.195px; color: #000000; font-variant-ligatures: normal; font-variant-caps: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(254, 254, 254, 0.61); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;">Further information</span></h6>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<p><span style="font-size: 10pt;">Additional resources for this section that may be of use to you:</span></p>
+<ul>
+<li><span style="font-size: 10pt;"><a href="https://www.griffith.edu.au/library/study/prepare-assignments/evaluate-sources" rel="noopener" target="_blank">Evaluate your sources</a></span></li>
+</ul>
+</div>
+</p></p>
+<h1>Evaluating information</h1>
+<p><p>
+<h4 id="anonymous_element_52">Evaluating information</h4>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/reading.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<p><span style="font-size: 10pt;">You will need to use your critical thinking skills to evaluate whether a source is suitable to use. Here are five factors to consider before you include a source of information in your assignment. <span style="font-size: 13px;">Click on the + to find out more information on evaluating your sources.</span> </span></p>
+</div>
+<div style="max-width: 800px;">
+<p><p><p class="embed">&lt;iframe allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://griffith.h5p.com/content/1290699402263054719/embed" style="font-size: 13px;" width="640"&gt;&lt;/iframe&gt;</p></p></p>
+</div>
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;">You can
+<span class="canvasFileLink">download the text version.</span>
+
+<br/> </p>
+<h6 id="anonymous_element_53" style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"></h6>
+<h6 id="anonymous_element_54">Further information</h6>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<p style="text-shadow: none; letter-spacing: normal; margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit;"><span style="font-size: 10pt;">Additional resources for this section that may be of use to you:</span></p>
+<ul>
+<li><a href="https://www.open.ac.uk/library/help-and-support/advanced-evaluation-using-prompt" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732142_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=https%3A%2F%2Fwww.open.ac.uk%2Flibrary%2Fhelp-and-support%2Fadvanced-evaluation-using-prompt';">Evaluation using PROMPT</a></li>
+<li><a href="http://blog.efpsa.org/2011/08/01/how-to-critically-evaluate-the-quality-of-a-research-article/" onclick="this.href='/webapps/blackboard/content/contentWrapper.jsp?content_id=_6732142_1&amp;displayName=Linked+File&amp;navItem=content&amp;attachment=true&amp;course_id=_99031_1&amp;tab_group=courses&amp;href=http%3A%2F%2Fblog.efpsa.org%2F2011%2F08%2F01%2Fhow-to-critically-evaluate-the-quality-of-a-research-article%2F';"><span style="font-size: 10pt;">How to critically evaluate the quality of a research article?</span></a></li>
+</ul>
+</div>
+</div>
+</p></p>
+<h1>Referencing - why do we reference?</h1>
+<p><p>
+<h4 id="anonymous_element_8">Why do we reference?</h4>
+<p>
+   Referencing is a part of assessment writing. Using the research of others to build and support concepts, ideas and arguments in your assignment, provides credibility to your work. It also allows the marker of your paper to know that you have accessed experts in your field of knowledge.
+ </p>
+<p></p>
+<p>
+   Referencing allows you to clearly and consistently acknowledge all the information sources you have used in your assessment. By doing this, you also avoid plagiarism, which means to use the words or ideas of others as your own. Avoiding plagiarism maintains
+  <a href="https://www.griffith.edu.au/academic-integrity" rel="noopener" target="_blank">academic integrity</a>.
+ </p>
+<p></p>
+<p></p>
+<p>
+<img alt="Part of academic writing, support your work, avoid plagiarism, enables you to find those resources next time." class="W2C_IMAGE_LINK" height="255" src="Why reference(3).PNG" style="border: 0px solid #000000;" width="563"/>
+
+<br/> 
+ </p>
+<p></p>
+<p>
+   Contact a member of the teaching team of your course for more guidance or refer to the Library 
+  <a href="https://www.griffith.edu.au/library/study" rel="noopener" target="_blank">self-help resources</a>.
+ </p>
+</p></p>
+<h1>Referencing - what do we reference?</h1>
+<p><p>
+<h4 id="anonymous_element_57">What do we reference?</h4>
+<ul>
+<li class="vtbegenerated_div">Words: e.g. direct quotes (exact copy of original text) </li>
+<li class="vtbegenerated_div">Ideas: e.g. definitions, ideas, creative works, expert opinion</li>
+<li class="vtbegenerated_div">Information: e.g. statistics, research results, facts that are <strong>not</strong> “common knowledge”</li>
+</ul>
+<p>
+<strong>NOTE</strong>: 'Common knowledge' is difficult to define, as what may be common knowledge in one area of study may not in another i.e. what most people in a particular field would be expected to know, and which has the status of established fact.
+ </p>
+
+<p>
+<p><span style="font-size: 10pt;">You do not need to reference:</span></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit; text-shadow: none;"><span style="font-size: 10pt;">Your own original ideas
+<br/></span></li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border: 0px none; outline: currentcolor none 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 13px; line-height: 20.15px; display: list-item; list-style-position: outside; list-style-type: inherit; text-shadow: none;"><span style="font-size: 10pt;">Your reflections </span></li>
+</ul> </li>
+</ul>
+</p>
+<p>
+   If you haven't referenced a particular point, the implication is that you are claiming the idea as your own.
+ </p>
+
+
+<p>
+<img alt="Do need to reference: direct quotes, paraphrasing, facts and figures. Don't need to reference: common knowledge, your own original ideas, your reflections. " class="W2C_IMAGE_LINK" height="257" src="What do we reference(3).PNG" style="border: 0px solid #000000;" width="557"/>
+
+<br/>
+<br/>
+</p>
+</p></p>
+<h1>Referencing - how do we reference?</h1>
+<p><p>
+<h4 id="anonymous_element_10">How do we reference?</h4>
+<p>
+   As you research for your assignment you will need to collect four pieces of information:
+  <strong>Who</strong>,
+  <strong>When</strong>,
+  <strong>What</strong> and
+  <strong>Where</strong>?
+ </p>
+<p>
+   This video explains the
+  <strong>Who</strong>,
+  <strong>When</strong>,
+  <strong>What</strong> and
+  <strong>Where</strong> of referencing.
+ </p>
+
+<p>
+<p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="240" src="https://player.vimeo.com/video/486627170" width="426"&gt;&lt;/iframe&gt;</p></p>
+</p>
+<p>
+   You can download the video and transcript:
+ </p>
+<ul>
+<li><a href="https://vimeo.com/user82369617/download/486627170/21593e3dc9" rel="noopener" target="_blank">Referencing the Four Ws (VIDEO)</a></li>
+<li><a href="https://griffitheduau.sharepoint.com/sites/LearningObjectsLibrary/LearningObjects/Forms/AllItems.aspx?id=%2Fsites%2FLearningObjectsLibrary%2FLearningObjects%2FBusiness%2FBusiness%20General%2F2020%5FTranscripts%2F2020%5FReferencing%2DWho%2DWhen%2DWhat%2DWhere%281%29%2Epdf&amp;parent=%2Fsites%2FLearningObjectsLibrary%2FLearningObjects%2FBusiness%2FBusiness%20General%2F2020%5FTranscripts&amp;p=true&amp;ct=1611288991380&amp;or=OWA-NT&amp;cid=a44ff91b-3c35-90f3-4df1-2d1a71948fbf&amp;originalPath=aHR0cHM6Ly9ncmlmZml0aGVkdWF1LnNoYXJlcG9pbnQuY29tLzpiOi9zL0xlYXJuaW5nT2JqZWN0c0xpYnJhcnkvRWFuLXVJZkViRVJEai0yNFRYQXVya3dCa2ZCWHdQaENlUzJnck5GNzdHTDNndz9ydGltZT11QXpzZjR5LTJFZw" rel="noopener" target="_blank">Referencing the Four Ws (PDF 57KB)</a></li>
+</ul>
+<p>
+<br/></p>
+
+<p>
+   Once you have gathered these four pieces of information you can create a reference. A reference consists of two parts:
+ </p>
+<ul>
+<li>the <strong>citation (in-text)</strong> which is a shortcut to the full information in the reference list</li>
+<li>the <strong>reference list</strong>.</li>
+</ul>
+<p>
+   How you go about creating your references depends on the
+  <strong>referencing style</strong> you are required to use.
+ </p>
+</p></p>
+<h1>Referencing using Chicago 17 (Notes &amp; Bibliography)</h1>
+<p><p>
+<h4 id="anonymous_element_60">Referencing using Chicago 17 (Notes &amp; Bibliography)</h4>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 68px; height: 60px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p> </span>
+<br/>
+<span style="font-size: 10pt;">The following video from the Library explains how to create in-text references using Chicago 17 Notes &amp; Bibliography style. </span>
+</div>
+<p><p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/413798067" width="640"&gt;&lt;/iframe&gt;</p></p></p>
+<p><span style="font-size: 10pt;">You can download the video: </span></p>
+<p><span style="font-size: 10pt;"><a href="https://vimeo.com/user82369617/download/413798067/f761eb96db" rel="noreferrer noopener" target="_blank">Creating in-text references using the Chicago 17 Notes &amp; Bibliography referencing style (VIDEO)</a></span></p>
+<p>
+<br/></p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/video.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+<p><span style="font-size: 10pt;">
+<br/>The following video from the Library explains how to create bibliography entries using Chicago 17 Notes &amp; Bibliography style.</span></p>
+</div>
+</div>
+<p><p><p class="embed">&lt;iframe allow="autoplay; fullscreen" allowfullscreen="" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/413862967" width="640"&gt;&lt;/iframe&gt;</p></p></p>
+<p><span style="font-size: 10pt;">You can download the video: </span></p>
+<p><span style="font-size: 10pt;"><a href="https://vimeo.com/user82369617/download/413862967/00309ed5e4" rel="noreferrer noopener" target="_blank">Creating a bibliography using the Chicago 17 Notes &amp; Bibliography referencing style (VIDEO) </a></span></p>
+<p>
+<br/></p>
+<div style="overflow: hidden;">
+<span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/web-link.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span>
+<div style="overflow: hidden;">
+
+<ul>
+<li><span style="font-size: 10pt;">The <a href="https://www.griffith.edu.au/library/study/referencing" rel="noreferrer noopener" target="_blank">Referencing guides</a> on the Library website provide examples of citations and reference list/bibliography entries.</span></li>
+<li><span style="font-size: 10pt;">The Chicago Manual of Style website contains <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html" rel="noreferrer noopener" target="_blank">quickguides</a> with instructions and examples for creating footnotes and reference lists/bibliographies.</span></li>
+<li>Learn <a href="https://support.office.com/en-us/article/Insert-footnotes-and-endnotes-61f3fb1a-4717-414c-9a8f-015a5f3ff4cb" rel="noopener" target="_blank">how to insert footnotes and endnotes in Word for Office 365, Word 2019/2016/2013/2010/2007</a>.</li>
+</ul>
+</div>
+</div>
+<p>
+<br/></p>
+<h6 id="anonymous_element_9">Further information</h6>
+<div style="overflow: hidden;">
+<p><span style="font-size: 10pt;"><p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/more-information.svg" style="width: 69px; height: 61px; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p></span></p>
+<p><span style="font-size: 10pt;">Additional resources for this section that may be of use to you:</span></p>
+<ul>
+<li><span style="font-size: 10pt;"><a href="http://librarycatalogue.griffith.edu.au/record=b2449685" rel="noreferrer noopener" target="_blank">Print copies</a> of The Chicago Manual of Style in the Library and at the QCA Library Desk</span></li>
+</ul>
+</div>
+<p>
+<br/></p>
+<p><span style="font-size: 10pt;">If you are still not sure what type of referencing style is required to satisfy your assessment question or how to use it after working through this page, you should contact a member of the teaching team of your course for more guidance, or refer to the Library <a href="https://www.griffith.edu.au/library/study" rel="noreferrer noopener" target="_blank">self-help resources</a>.</span></p>
+</p></p>
+<h1>Feedback</h1>
+<p><p>
+<h4 id="anonymous_element_62" style="overflow: hidden;">Feedback</h4>
+<div style="overflow: hidden;">
+<p><p class="embed">&lt;img src="https://app.secure.griffith.edu.au/gois/ultra/icons-regular/reflection-activity.svg" style="width: 70px; height: auto; float: left; margin: 0px 10px 10px 0px;"/&gt;</p></p>
+<div style="overflow: hidden;">
+<p>
+<br/></p>
+<p>Please give us your feedback by completing this <a href="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/43245?lang=en" rel="noopener" target="_blank">short </a><a href="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/43245?lang=en" rel="noopener" target="_blank">survey</a>.</p>
+</div>
+</div>
+</p></p>
+
+"""
+
+fred =""" 
 """
 
 
