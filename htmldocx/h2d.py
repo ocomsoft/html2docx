@@ -229,7 +229,11 @@ class HtmlToDocx(HTMLParser):
         if 'margin-left' in style:
             margin = style['margin-left']
             units = re.sub(r'[0-9]+', '', margin)
-            margin = int(float(re.sub(r'[a-z]+', '', margin)))
+            try:
+                margin = int(float(re.sub(r'[a-z]+', '', margin)))
+            except:
+                print('Could not parse margin-left value: {}'.format(margin))
+
             if units == 'px':
                 self.paragraph.paragraph_format.left_indent = Inches(min(margin // 10 * INDENT, MAX_INDENT))
             # TODO handle non px units
@@ -403,6 +407,9 @@ class HtmlToDocx(HTMLParser):
         self.table = None
 
     def handle_link(self, href, text):
+#        print("link text")
+#        pprint(text)
+#        input("press enter to continue")
         # Link requires a relationship
         is_external = href.startswith('http')
         rel_id = self.paragraph.part.relate_to(
@@ -449,14 +456,14 @@ class HtmlToDocx(HTMLParser):
 #        pprint(current_attrs)
 
         currentClass = current_attrs.get('class', None)
-#        print(f"-- Got currentClass {currentClass}")
+        print(f"-- Got currentClass {currentClass}")
 
         if self.style_map and currentClass:
             tagDict = self.style_map.get(tag, None)
             if tagDict is not None:
                 style = tagDict.get(currentClass, None)
 
-#        print(f"-- Returning style {style}")
+        print(f"-- Returning style {style}")
 
 #        input("checkStyleMap")
         return style
@@ -599,6 +606,13 @@ class HtmlToDocx(HTMLParser):
         # https://html.spec.whatwg.org/#interactive-content
         link = self.tags.get('a')
         if link:
+#            print("found a link")
+#            pprint(link)
+#            print('associated data is')
+#            pprint(data)
+#            print('self')
+#            pprint(self)
+#            input("press enter to continue")
             if 'href' in link: 
                 self.handle_link(link['href'], data)
         else:
