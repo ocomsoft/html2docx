@@ -693,6 +693,8 @@ class HtmlToDocx(HTMLParser):
         self.feed(html)
 
     def add_html_to_document(self, html, document):
+        html = self.pre_run_cleanup(html)
+
         if not isinstance(html, str):
             raise ValueError('First argument needs to be a %s' % str)
         elif not isinstance(document, docx.document.Document) and not isinstance(document, docx.table._Cell):
@@ -724,9 +726,29 @@ class HtmlToDocx(HTMLParser):
         self.doc.save('%s.docx' % filename_docx)
     
     def parse_html_string(self, html):
+        html = self.pre_run_cleanup( html )
         self.set_initial_attrs()
         self.run_process(html)
         return self.doc
+
+    def pre_run_cleanup(self, html):
+        """ 
+        Clean up the HTML to avoid html2docx crashing
+        - ensure all URLs for links and imgs are safely encoded
+
+        @param html: HTML string
+        @return: Cleaned up HTML string
+        """
+
+        # ensure all URLs for links and imgs are safely encoded
+        soup = BeautifulSoup(html, 'html.parser')
+        for tag in soup.find_all(['a', 'img']):
+            if 'href' in tag.attrs:
+                tag['href'] = urllib.parse.quote(tag['href'])
+            if 'src' in tag.attrs:
+                print(f"-- {tag['src']}")
+                tag['src'] = urllib.parse.quote(tag['src'])
+        return str(soup)
 
 if __name__=='__main__':
     
