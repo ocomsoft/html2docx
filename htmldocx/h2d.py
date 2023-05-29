@@ -746,8 +746,9 @@ class HtmlToDocx(HTMLParser):
             if 'href' in tag.attrs:
                 tag['href'] = urllib.parse.quote(tag['href'])
             if 'src' in tag.attrs:
-                print(f"-- {tag['src']}")
-                tag['src'] = urllib.parse.quote(tag['src'])
+                if not tag["src"].startswith("data:image/"):
+                    print(f"-- {tag['src']}")
+                    tag['src'] = urllib.parse.quote(tag['src'])
         return str(soup)
 
 if __name__=='__main__':
